@@ -12,18 +12,3 @@ Double ToDegree(double a, double b)
 }
 System.Console.WriteLine(ToDegree(a,b));
 
-//void ToDegree(int a, int b)
-//{
-  //  int result =1;
- //     for (int i = 1; i <= b; i++)
- //  {
- //   result=result*a;
- //  } 
-  // Console.WriteLine(result);
-//}
-
-//Console.WriteLine("Введите число А:");
-//int numberA=Convert.ToInt32(Console.ReadLine());
-//Console.WriteLine("Введите число B:");
-//int numberB=Convert.ToInt32(Console.ReadLine());
-
